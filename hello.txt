@@ -8,3 +8,4 @@ hello git
 hello git master test
 hello git f1 test
 我在远程库新增了一行内容，演示远程库库拉取数据到本地库
+演示免密登录
